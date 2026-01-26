@@ -9,7 +9,7 @@ features:
   - keys
   - display
   - encoder
-  - Studio
+  - studio
 siblings:
   - sofle_ergomech_left
   - sofle_ergomech_right
